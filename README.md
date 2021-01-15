@@ -1,1 +1,1 @@
-[Learn about me!](https://github.com/codemonkey85/aboutme)
+[Learn about me!](https://codemonkey85.github.io/aboutme/)
